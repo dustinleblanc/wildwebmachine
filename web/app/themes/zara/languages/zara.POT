@@ -1,0 +1,581 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zara\n"
+"POT-Creation-Date: 2018-10-11 18:20+0530\n"
+"PO-Revision-Date: 2018-10-11 18:21+0530\n"
+"Last-Translator: \n"
+"Language-Team: Abileweb\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:55
+msgid "Reply"
+msgstr ""
+
+#: comments.php:61 single.php:20
+msgid "Previous"
+msgstr ""
+
+#: comments.php:62 single.php:25
+msgid "Next"
+msgstr ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:28
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#: functions.php:41
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:42
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:102
+msgid "Default Header Image"
+msgstr ""
+
+#: functions.php:153
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:194 sidebar.php:12
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:196
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:204
+msgid "Promobox Widget Area"
+msgstr ""
+
+#: functions.php:206
+msgid "Add widgets here to appear in your home page."
+msgstr ""
+
+#: functions.php:214
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:216 functions.php:226 functions.php:235 functions.php:244
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:224
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:233
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:242
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:267
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: functions.php:343
+msgid "Expand child menu"
+msgstr ""
+
+#: functions.php:344
+msgid "Collapse child menu"
+msgstr ""
+
+#: header.php:75
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: include/back-compat.php:33 include/back-compat.php:42
+#: include/back-compat.php:54
+#, php-format
+msgid ""
+"Zara requires at least WordPress version 4.7. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+
+#: include/customizer.php:39
+msgid "Theme Options"
+msgstr ""
+
+#: include/customizer.php:48
+msgid "Header Options"
+msgstr ""
+
+#: include/customizer.php:65
+msgid "Show Header - Top"
+msgstr ""
+
+#: include/customizer.php:82
+msgid "Top Header Left Section"
+msgstr ""
+
+#: include/customizer.php:87 include/customizer.php:109
+msgid "Contact Details"
+msgstr ""
+
+#: include/customizer.php:88 include/customizer.php:110
+msgid "Social Links"
+msgstr ""
+
+#: include/customizer.php:104
+msgid "Top Header Right Section"
+msgstr ""
+
+#: include/customizer.php:126
+msgid "facebook"
+msgstr ""
+
+#: include/customizer.php:127 include/customizer.php:146
+#: include/customizer.php:165 include/customizer.php:184
+msgid "e.g: http://example.com"
+msgstr ""
+
+#: include/customizer.php:145
+msgid "Twitter"
+msgstr ""
+
+#: include/customizer.php:164
+msgid "Instagram"
+msgstr ""
+
+#: include/customizer.php:183
+msgid "Google Plus"
+msgstr ""
+
+#: include/customizer.php:201
+msgid "Address/Location"
+msgstr ""
+
+#: include/customizer.php:218
+msgid "Phone Number"
+msgstr ""
+
+#: include/customizer.php:235
+msgid "Email"
+msgstr ""
+
+#: include/customizer.php:247
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: include/customizer.php:265
+msgid "Breadcrumb Type"
+msgstr ""
+
+#: include/customizer.php:270 include/customizer.php:360
+msgid "Disable"
+msgstr ""
+
+#: include/customizer.php:271
+msgid "Normal"
+msgstr ""
+
+#: include/customizer.php:280
+msgid "Footer Options"
+msgstr ""
+
+#: include/customizer.php:298
+msgid "Copyright Text"
+msgstr ""
+
+#: include/customizer.php:309
+msgid "Typography Options"
+msgstr ""
+
+#: include/customizer.php:327
+msgid "Font"
+msgstr ""
+
+#: include/customizer.php:337
+msgid "Back To Top Options"
+msgstr ""
+
+#: include/customizer.php:355
+msgid "Active?"
+msgstr ""
+
+#: include/customizer.php:361
+msgid "Enable"
+msgstr ""
+
+#: include/customizer.php:369
+msgid "Slider Option"
+msgstr ""
+
+#: include/customizer.php:387
+msgid "Post Slider"
+msgstr ""
+
+#: include/customizer.php:388
+msgid "Note: Hide Header Image If you Want Post Slider."
+msgstr ""
+
+#: include/customizer.php:407
+msgid "Number Of Slider"
+msgstr ""
+
+#: include/customizer.php:412
+msgid "2"
+msgstr ""
+
+#: include/customizer.php:413
+msgid "3"
+msgstr ""
+
+#: include/customizer.php:414
+msgid "4"
+msgstr ""
+
+#: include/customizer.php:415
+msgid "5"
+msgstr ""
+
+#: include/customizer.php:432
+msgid "Post Navigation"
+msgstr ""
+
+#: include/customizer.php:450
+msgid "Post Pagination"
+msgstr ""
+
+#: include/customizer.php:468
+msgid "Post Content"
+msgstr ""
+
+#: include/customizer.php:486
+msgid "Post Time"
+msgstr ""
+
+#: include/customizer.php:504
+msgid "Post Excerpt"
+msgstr ""
+
+#: include/customizer.php:637
+msgid "Copyright &copy; All rights reserved."
+msgstr ""
+
+#: include/icon-functions.php:37
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: include/icon-functions.php:42
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: include/template-tags.php:52
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#: include/template-tags.php:66
+msgid ", "
+msgstr ""
+
+#: include/template-tags.php:85
+msgid "Categories"
+msgstr ""
+
+#: include/template-tags.php:89
+msgid "Tags"
+msgstr ""
+
+#: include/template-tags.php:117
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: include/template-tags.php:151
+#, php-format
+msgid "Front Page Section %1$s Placeholder"
+msgstr ""
+
+#: search.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:19
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/footer/site-info.php:18
+msgid "http://www.abileweb.com/"
+msgstr ""
+
+#: template-parts/footer/site-info.php:18
+#, php-format
+msgid "Designed by %s"
+msgstr ""
+
+#: template-parts/footer/widgets.php:40
+msgid "Footer"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:7
+msgid "Promo Box Widget"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:8
+msgid "Promo Box"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:51
+#: template-parts/header/Zara_Promobox_Widget.php:73
+#: template-parts/header/Zara_Promobox_Widget.php:95
+#: template-parts/header/Zara_Promobox_Widget.php:117
+msgid "Promobox"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:188
+msgid "Promo Box 1:"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:193
+#: template-parts/header/Zara_Promobox_Widget.php:215
+#: template-parts/header/Zara_Promobox_Widget.php:237
+#: template-parts/header/Zara_Promobox_Widget.php:259
+msgid "Title:"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:198
+#: template-parts/header/Zara_Promobox_Widget.php:220
+#: template-parts/header/Zara_Promobox_Widget.php:242
+#: template-parts/header/Zara_Promobox_Widget.php:264
+msgid "Title Url:"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:203
+msgid "Box 1 Image:"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:206
+#: template-parts/header/Zara_Promobox_Widget.php:227
+#: template-parts/header/Zara_Promobox_Widget.php:250
+#: template-parts/header/Zara_Promobox_Widget.php:271
+msgid "Upload"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:206
+#: template-parts/header/Zara_Promobox_Widget.php:227
+#: template-parts/header/Zara_Promobox_Widget.php:250
+#: template-parts/header/Zara_Promobox_Widget.php:271
+msgid "Select Image"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:206
+#: template-parts/header/Zara_Promobox_Widget.php:227
+#: template-parts/header/Zara_Promobox_Widget.php:250
+#: template-parts/header/Zara_Promobox_Widget.php:271
+msgid "Choose Image"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:207
+#: template-parts/header/Zara_Promobox_Widget.php:228
+#: template-parts/header/Zara_Promobox_Widget.php:251
+#: template-parts/header/Zara_Promobox_Widget.php:272
+msgid "Remove"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:211
+msgid "Promo Box 2:"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:225
+msgid "Box 2 Image:"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:232
+msgid "Promo Box 3:"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:247
+msgid "Box 3 Image:"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:255
+msgid "Promo Box 4:"
+msgstr ""
+
+#: template-parts/header/Zara_Promobox_Widget.php:269
+msgid "Box 4 Image:"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:245
+msgid "Browse:"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:246
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:247
+msgid "Home"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:248
+msgid "404 Not Found"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:249
+msgid "Archives"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:251
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:253
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:255
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:257
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:259
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:719
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:736
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:753
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:769
+#: template-parts/header/breadcrumb.php:798
+#: template-parts/header/breadcrumb.php:825
+#: template-parts/header/breadcrumb.php:852
+#: template-parts/header/breadcrumb.php:1192
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:770
+#: template-parts/header/breadcrumb.php:826
+#: template-parts/header/breadcrumb.php:1196
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:771
+#: template-parts/header/breadcrumb.php:1200
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: template-parts/header/breadcrumb.php:799
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: template-parts/page/content-page.php:21
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/post/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/post/content.php:34 template-parts/post/single.php:35
+msgid "No Comments"
+msgstr ""
+
+#: template-parts/post/content.php:36 template-parts/post/single.php:37
+msgid " Comments"
+msgstr ""
+
+#: template-parts/post/content.php:38 template-parts/post/single.php:39
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/post/slider.php:85
+msgid "Read More"
+msgstr ""
