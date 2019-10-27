@@ -1,1 +1,5 @@
 path: web/wp
+@production:
+  ssh: forge@178.128.152.164
+  user: forge
+  path: /home/forge/wildwebmachine.com/web/wp

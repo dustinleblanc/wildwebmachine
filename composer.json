@@ -37,7 +37,7 @@
     "composer/installers": "^1.4",
     "vlucas/phpdotenv": "^3.0.0",
     "oscarotero/env": "^1.1.0",
-    "roots/wordpress": "5.2.2",
+    "roots/wordpress": "^5.0",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "wpackagist-plugin/akismet": "^4.1",
@@ -46,10 +46,10 @@
     "wpackagist-plugin/google-analytics-dashboard-for-wp": "^5.3",
     "wpackagist-plugin/mailchimp-for-wp": "^4.5",
     "wpackagist-plugin/remove-amazon-links-from-rss-feed": "^1.4",
-    "wpackagist-plugin/wp-smushit": "3.2.0.1",
+    "wpackagist-plugin/wp-smushit": "^3.0",
     "wpackagist-plugin/widget-css-classes": "^1.5",
     "wpackagist-plugin/wp-super-cache": "^1.6",
-    "wpackagist-plugin/wordpress-seo": "^10.1",
+    "wpackagist-plugin/wordpress-seo": "^12.0",
     "wpackagist-theme/zara": "^2.1"
   },
   "require-dev": {
